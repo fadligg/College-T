@@ -7,6 +7,7 @@
 [Mari berkunjung ke blog](https://fadligg.wordpress.com/2023/12/26/menggali-dunia-mesin-komputasi-dan-jenis-mesin-yang-mengubah-perkembangan-teknologi/)
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+[Nonton Yutub](https://youtu.be/n9JU3AwUy90?si=Ew0vzxfOh7m7AW2l)
 
 ## Mencoba Console Sistem Operasi
 
@@ -33,7 +34,7 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
+[Nonton Yutub](https://youtu.be/257SSDgwlOc?si=mpAY92O4sYG1TT2R)
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
@@ -117,6 +118,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+[Nonton Yutub](https://youtu.be/t2-Ac_TAVCg?si=KNtOC04VKXbHZfHC)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
