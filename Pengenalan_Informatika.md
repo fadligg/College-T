@@ -4,6 +4,7 @@
 [Mari berkunjung ke blog](https://fadligg.wordpress.com/2023/12/20/computational-thinking/)
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+[Mari berkunjung ke blog](https://fadligg.wordpress.com/2023/12/26/menggali-dunia-mesin-komputasi-dan-jenis-mesin-yang-mengubah-perkembangan-teknologi/)
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
