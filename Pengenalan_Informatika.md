@@ -139,6 +139,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+[Mari berkunjung ke blog](https://fadligg.wordpress.com/2023/12/26/book-review-alan-turing-the-enigma/)
 
 
 
