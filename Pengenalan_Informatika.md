@@ -111,6 +111,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/fLu5z8ZVbn4)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+[Nonton Yutub](https://youtu.be/KdkwbcOvTzo)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
