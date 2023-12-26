@@ -136,6 +136,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+[Nonton Yutub](https://youtu.be/UNmVx0BWMbs)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
