@@ -145,6 +145,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+[Mari Berkunjung ke blog](https://fadligg.wordpress.com/2023/12/26/google-developer-student-club-preparing-for-study-jams-first-study-jam/)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 [Mari berkunjung ke blog](https://fadligg.wordpress.com/2023/12/26/book-review-alan-turing-the-enigma/)
