@@ -33,6 +33,7 @@ Referensi [1](https://scratch.mit.edu/)
 [Nonton Yutub](https://youtu.be/6OgihbDwGUM)
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+[Nonton Yutub](https://youtu.be/WciTP5a6cLw)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
