@@ -69,9 +69,8 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Referensi []
-
+On Page di Wordpress saya
+[Link ke blog](https://fadligg.wordpress.com/2023/12/21/tips-trick-menghafal-al-quran-untuk-mahasiswa/)
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
