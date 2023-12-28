@@ -148,7 +148,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/UNmVx0BWMbs)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-[Nonton Yutub](https://youtu.be/4XV-U-CNQO8)
+[Nonton Yutub](https://youtu.be/4XV-U-CNQO8) <br>
 [Github aku](https://github.com/fadligg)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
