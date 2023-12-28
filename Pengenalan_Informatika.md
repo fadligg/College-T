@@ -29,6 +29,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+[Nonton Yutub](https://youtu.be/wqTWbSW_6Gk)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 [Nonton Yutub](https://youtu.be/6OgihbDwGUM)
