@@ -24,6 +24,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+[Nonton Yutub](https://youtu.be/H86bkLqkWq8)
 
 Referensi [1](https://scratch.mit.edu/)
 
