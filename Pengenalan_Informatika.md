@@ -128,6 +128,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/om4pNsz71vQ)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+[Nonton Yutub](https://youtu.be/az2ERzlDnRs)
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
