@@ -38,6 +38,8 @@ Referensi [1](https://scratch.mit.edu/)
 [Nonton Yutub](https://youtu.be/WciTP5a6cLw)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+[Nonton Yutub](https://youtu.be/JiPU2zL0irc)
+[Cara Download](https://fadligg.wordpress.com/2023/12/29/mari-mainkan-game-2d-adventure-jack-in-the-woods/)
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 [Nonton Yutub](https://youtu.be/257SSDgwlOc?si=mpAY92O4sYG1TT2R)
