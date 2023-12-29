@@ -96,6 +96,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Wordpress](https://fadligg.wordpress.com/)
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+[Mari Berkunjung ke Blog](https://fadligg.wordpress.com/2023/12/29/photoshop-dan-corel-draw-mana-yang-loe-pilih/)
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 [Nonton Yutub](https://youtu.be/8UwC3vvq3NY)
