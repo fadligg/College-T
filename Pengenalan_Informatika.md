@@ -111,6 +111,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/CZYED4-1mnI)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+[Hugging Face](https://youtu.be/NUJwJm9428g?si=fOR4zD9Uo-TrAjC4)
+[Hugging Face lagi](https://youtu.be/fLu5z8ZVbn4?si=LAp8jLq88krtPvw2)
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 [Nonton Yutub](https://youtu.be/iYMpXjsKvik)
