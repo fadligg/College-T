@@ -124,6 +124,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/KdkwbcOvTzo)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+[Nonton Yutub](https://youtu.be/om4pNsz71vQ)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
