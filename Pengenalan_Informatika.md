@@ -134,6 +134,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/t2-Ac_TAVCg?si=KNtOC04VKXbHZfHC)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+[Nonton Yutub](https://youtu.be/B682EJQAw4Y)
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 [Nonton Yutub](https://youtu.be/U92Ecne2CUc)
@@ -141,12 +142,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+[Nonton Yutub](https://youtu.be/B682EJQAw4Y)
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
+[Nonton Yutub](https://youtu.be/B682EJQAw4Y)
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
+[Nonton Yutub](https://youtu.be/B682EJQAw4Y)
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+[Nonton Yutub](https://youtu.be/B682EJQAw4Y)
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 [Nonton Yutub](https://youtu.be/UNmVx0BWMbs)
