@@ -131,6 +131,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Mari berkunjung ke blog](https://fadligg.wordpress.com/2023/12/28/apa-sih-jurnal-conference-artikel-grade-jurnal-itu/)
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+[Nonton yutub](https://youtu.be/9Qm284auYRI)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 [Nonton Yutub](https://youtu.be/t2-Ac_TAVCg?si=KNtOC04VKXbHZfHC)
