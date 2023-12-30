@@ -105,6 +105,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/EHTJk4UUSCI)
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+[Nonton Yutub](https://youtu.be/0UcFqu6Nnq8)
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 [Nonton Yutub](https://youtu.be/NUJwJm9428g)
