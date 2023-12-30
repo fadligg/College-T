@@ -24,7 +24,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-[Nonton Yutub](https://youtu.be/H86bkLqkWq8)
+[Nonton Yutub](https://youtu.be/H86bkLqkWq8) <br>
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -77,9 +77,10 @@ On Page di Wordpress saya
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+[Nonton Yutub](https://youtu.be/4P5kPZ9QkCg)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+[Nonton Yutub](https://youtu.be/4P5kPZ9QkCg)
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
