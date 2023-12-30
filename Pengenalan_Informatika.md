@@ -123,6 +123,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/iYMpXjsKvik)
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+[Nonton Yutub](https://youtu.be/SnbOav5LbIY)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 [Nonton Yutub](https://youtu.be/fLu5z8ZVbn4)
