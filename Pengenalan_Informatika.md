@@ -74,7 +74,9 @@ Referensi tutorial
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 On Page di Wordpress saya
 [Link ke blog](https://fadligg.wordpress.com/2023/12/21/tips-trick-menghafal-al-quran-untuk-mahasiswa/)
+
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+[Nonton Yutub](https://youtu.be/vzfsDmcQzIY)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 [Nonton Yutub](https://youtu.be/4P5kPZ9QkCg)
