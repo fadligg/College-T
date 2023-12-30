@@ -157,6 +157,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 [Nonton Yutub](https://youtu.be/4Tv2aBHCb6k)
+![sssss](https://github.com/fadligg/College-T/assets/144420686/08c0091e-7842-44ab-ba7a-a48a12bb311a)
+
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 [Nonton Yutub](https://youtu.be/B682EJQAw4Y)
