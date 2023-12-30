@@ -138,6 +138,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 [Nonton Yutub](https://youtu.be/az2ERzlDnRs)
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+[Nonton Yutub](https://youtu.be/80I3q1Rhg9g)
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 [Mari berkunjung ke blog](https://fadligg.wordpress.com/2023/12/28/apa-sih-jurnal-conference-artikel-grade-jurnal-itu/)
